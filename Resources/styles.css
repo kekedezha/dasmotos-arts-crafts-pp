@@ -1,0 +1,40 @@
+header h1{
+    background-image: url('./image1.jpeg');
+    height: 100px;
+    font-family: "Helvetica";
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    width:100%;
+}
+
+h4 {
+    font-family: "Helvetica";
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+em {
+    font-family: "Helvetica";
+    font-weight: bold;
+    color: blue;
+    font-style: normal;
+}
+
+h3, p {
+    font-family: "Helvetica";
+}
